@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aquib Khan
+# 👋 Hi, I'm Mohd Aquib
 
 <div align="center">
 
