@@ -252,14 +252,13 @@ I'm always interested in:
 
 ### Get in Touch
 
-**Email:** [aquibkhan@example.com](mailto:aquibkhan@example.com)  
+**Email:** (aquibsidd38@gmail.com)  
 **GitHub:** [@Aquib2004](https://github.com/Aquib2004)  
-**Portfolio:** [aquibkhan.dev](https://aquibkhan.dev) *(Coming Soon)*
+**Portfolio:** [mohdaquin.dev](https://aquib.dev) *(Coming soon)*
 
-**Social Media:**
-- 🐦 [Twitter](https://twitter.com/AquibKhan)
-- 💼 [LinkedIn](https://linkedin.com/in/aquibkhan)
-- 📧 [Email](mailto:aquibkhan@example.com)
+**Social
+- 💼 [LinkedIn](https://linkedin.com/in/mohd Aquib)
+- 📧 [Email](mailto:aquibsidd38@gmail.com)
 
 </div>
 
@@ -332,9 +331,9 @@ I'm committed to staying updated with:
 I'm passionate about creating quality software and helping others grow.  
 If you have any questions, ideas, or opportunities, **don't hesitate to reach out!**
 
-**Made with ❤️ by Aquib Khan**
+**Made with ❤️ by Aquib **
 
-[⬆ back to top](#-hi-im-aquib-khan)
+[⬆ back to top]
 
 </div>
 
