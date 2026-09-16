@@ -7,7 +7,7 @@
 **Building intelligent solutions that make a difference**
 
 [![GitHub Followers](https://img.shields.io/github/followers/Aquib2004?style=social)](https://github.com/Aquib2004)
-[![Twitter Follow](https://img.shields.io/twitter/follow/AquibKhan?style=social)](https://twitter.com/AquibKhan)
+[![Twitter Follow](https://img.shields.io/twitter/follow/?style=social)](https://twitter.com/!!)
 
 </div>
 
@@ -162,10 +162,8 @@ AI-powered chatbot designed specifically for Aligarh Muslim University students.
 ## 🎓 Skills Breakdown
 
 ### **Expert Level** (90%+)
-- JavaScript/ES6+
-- React.js & React Hooks
+- React.js 
 - Responsive Web Design
-- HTML5 & CSS3
 - REST API Development
 - Git & Version Control
 
