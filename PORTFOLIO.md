@@ -1,4 +1,4 @@
-# 👨‍💻 Aquib Khan - Portfolio & Projects
+# 👨‍💻 MOHD AQUIB - Portfolio & Projects
 
 Welcome to my GitHub portfolio! I'm a passionate developer working on AI, travel tech, and educational solutions. Here's a comprehensive overview of all my projects and repositories.
 
