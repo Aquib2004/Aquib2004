@@ -31,8 +31,13 @@ against the source, and refusing to proceed when confidence is low.
 
 ## Currently
 
+**AI Intern at Sofyrus Technologies**, working on generative AI and LLM-based systems.
+Final-year BCA student at Aligarh Muslim University (Dept. of Computer Science).
+
 Building at the layer where AI output has to survive contact with reality:
 verification, provenance, and human review rather than raw model capability.
+
+Open to full-time **AI/ML Engineer** and **Applied AI Engineer** roles.
 
 ---
 
@@ -91,6 +96,7 @@ exercises behaviour, and documentation that stays true.
 ## Get in touch
 
 - **GitHub** — [@Aquib2004](https://github.com/Aquib2004)
+- **LinkedIn** — [mohd-aquib](https://www.linkedin.com/in/mohd-aquib-82952528a/)
 - **Email** — [aquibsidd38@gmail.com](mailto:aquibsidd38@gmail.com)
 
 ---
